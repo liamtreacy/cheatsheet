@@ -31,6 +31,8 @@ echo "Hello, world!" | pbcopy
 pbpaste
 ```
 
+`rg "some_text" | wc -l` -  count results
+
 ## TMUX
 
 tmux ls - see active tmux sessions
